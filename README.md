@@ -13,5 +13,7 @@ Requirements included:
 ### Controls:
 - **Arrow Keys and Mouse:** Move with arrow keys, click to shoot in the combat area!
 
-### Screenshot:
-<div><img src="starting-screen.png" align="left"></div>
+### Screenshots:
+<div><img src="starting-screen.png" align="left" /></div>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<div><img src="fps-unity.png" align="left width="1400" /></div>
